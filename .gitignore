@@ -1,2 +1,5 @@
 # Arquivo executável
 *.exe
+
+# Program Database
+*.pdb
